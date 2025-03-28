@@ -1,0 +1,857 @@
+Name,Storage,Price,ScreenSize,CPU,RAM,GPU,Shell,Weight,Battery,Shop
+Dell Vostro 3520 F0V0VI3,512,9690000,15.6,Intel Core i3-1215U,8GB,Intel UHD Graphics,Plastic,1.9,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520 8JTD9,512,10290000,15.6,12th Gen Intel Core i3-1215U,8GB,Intel UHD Graphics,Plastic,1.65,"3-Cell, 41 Wh",cellphones
+Dell Vostro 3520 F0V0V256,256,11690000,15.6,Intel Core i5-1235U,8GB,Intel Iris Xe Graphics,Plastic,1.9,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520-5810BLK 102F0,256,12290000,15.6,Intel Core i5-1155G7,8GB,Intel Iris Xe Graphics,Plastic,1.9,"Lithium Polymer",cellphones
+Dell Vostro 3520 F0V0V,512,12590000,15.6,Intel Core i5-1235U,8GB,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520-5124BLK GJ8W7,512,13290000,15.6,Intel Core i5-1235U,8GB,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520 6R6NK,512,13490000,15.6,Intel Core i5-1235U,8GB,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520 6R6NK V2,512,13990000,15.6,Intel Core i5-1235U,16GB,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520-5124BLK GJ8W7 V2,512,14290000,15.6,Intel Core i5-1235U,16GB,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Vostro 3530 2H1024PI5,512,14990000,15.6,Intel Core i5-1334U thế hệ thứ 13,16GB,Intel UHD Graphics,Carbon,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520 8D10NK,512,16490000,15.6,Intel Core i5-1235U,16GB,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520 71045026,512,16490000,15.6,Intel Core i5-1235U,16GB,Intel Iris Xe Graphics,Plastic,1.9,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520 N3520,512,16490000,15.6,Intel Core i5-1235U,16GB,Intel UHD Graphics,Plastic,1.9,"3-Cell, 41 Wh",cellphones
+Dell Latitude 3540 71038100,512,16990000,15.6,Intel Core i5-1235U,16GB,Intel Iris Xe Graphics,Plastic,1.81,"3-Cell, 42 Wh",cellphones
+Dell Vostro 3530 2H1024PI7,512,17990000,15.6,Intel Core i7-1355U thế hệ thứ 13,16GB,Intel Iris Xe Graphics,Carbon,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3530 N5I5407W1,512,18490000,15.6,Intel Core i5-1334U,16GB,Intel Graphics,Plastic,1.62,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3520 I3520-7896BLK-PUS,1024,18790000,15.6,Intel Core i7-1255U,16GB,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3530 N5I7240W1,512,21490000,15.6,Intel Core i7-1355U,16GB,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",cellphones
+Dell Inspiron 15 3530 P16WD,1024,22490000,15.6,Intel Core i7-1355U,16GB,Intel Iris Xe Graphics,Plastic,1.7,"4-Cell, 54 Wh",cellphones
+Dell Inspiron 14 5440 N5440-C5U165W11IBD2,512,24690000,14,Intel Core 5 120U,16GB,NVIDIA GeForce MX570A 2GB GDDR6,"Plastic-Metal",1.65,"4-Cell, 54 Wh",cellphones
+Dell Inspiron 14 5440 71034770,1024,26990000,14,Core 7-150U,16GB,MX570A 2GB GDDR6,Plastic,1.63,"4-Cell, 54 Wh",cellphones
+Dell Inspiron 15 3520 i5 1235U (i5U085W11BLU),512,13990000,15.6,"i5, 1235U, 1.3GHz",8,Intel UHD,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3520 i5 1235U (71027003),512,13990000,15.6,"i5, 1235U, 1.3GHz",8,Intel UHD,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Vostro 15 3520 i5 1235U (5M2TT2),512,14490000,15.6,"i5, 1235U, 1.3GHz",8,Intel UHD,Plastic,1.67,"3-Cell, 41 Wh",thegioididong
+Dell Vostro 15 3520 i5 1235U (V5I5610W1),512,14490000,15.6,"i5, 1235U, 1.3GHz",8,Intel UHD,Plastic,1.85,"3-Cell, 41 Wh",thegioididong
+Dell Vostro 3420 i5 1235U (V4I5702W1),512,14490000,14,"i5, 1235U, 1.3GHz",8,Intel UHD,Plastic,1.49,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3520 i5 1235U (N3520-i5U085W11SLU),512,14990000,15.6,"i5, 1235U, 1.3GHz",8,Intel UHD,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Vostro 15 3520 i5 1235U (i5U165W11GRU),512,15990000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3520 i5 1235U,512,16490000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3520 i5 1235U (N5I5052W1),512,16490000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",thegioididong
+Dell Vostro 3520 i5 1235U (71030559),512,16490000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Vostro 15 3520 i5 1235U (V3520-i5U165W11GRU),512,16490000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3520 i5 1235U (71043883),512,16490000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3520 i5 1235U (N3520-i5U165W11BLU-FP),512,16490000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3520 i5 1235U (N5I5057W1),512,16490000,15.6,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3530 i5 1335U (N3530-i5U085W11BLU),512,16990000,15.6,"i5, 1335U, 1.3GHz",8,Intel UHD,Plastic,1.66,"3-Cell, 41 Wh",thegioididong
+Dell Latitude 3440 i5 1235U (L3440-I51235U-16G512G),512,16990000,14,"i5, 1235U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3530 i5 1334U (N5I5340W1),512,18490000,15.6,"i5, 1334U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.54,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3530 i5 1334U (N3530-i5U165W11SLU),512,18490000,15.6,"i5, 1334U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",thegioididong
+Dell Vostro 3530 i5 1335U (80GG93),512,18490000,15.6,"i5, 1335U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3530 i5 1334U (71043885),512,18490000,15.6,"i5, 1334U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3530 i5 1334U (P16WD2),512,18490000,15.6,"i5, 1334U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3530 i5 1334U (N5I5530W1),512,18490000,15.6,"i5, 1334U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",thegioididong
+Dell Latitude 3450 i5 1335U (L3450-1335U-16512W),512,18890000,14,"i5, 1335U, 1.3GHz",16,Intel UHD,Plastic,1.66,"3-Cell, 42 Wh",thegioididong
+Dell Inspiron 15 3520 i7 1255U (N3520-i7U165W11BLU-FP),512,19990000,15.6,"i7, 1255U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3520 i7 1255U (71053682),512,19990000,15.6,"i7, 1255U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3520 i7 1255U (N5I7125W1),512,19990000,15.6,"i7, 1255U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 14 5440 i5 1334U (NDY5V1),512,20990000,14,"i5, 1334U, 1.3GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3520 i7 1255U (25P2315),512,19990000,15.6,"i7, 1255U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.54,"3-Cell, 41 Wh",thegioididong
+Dell Inspiron 15 3530 i7 1355U (71026454),512,21490000,15.6,"i7, 1355U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3530 i7 1355U (N5I7301W1),512,21490000,15.6,"i7, 1355U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3530 i7 1355U (71043888),512,21490000,15.6,"i7, 1355U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3530 i7 1355U (N5I7240W1),512,21490000,15.6,"i7, 1355U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3530 i7 1355U (N5I7305W1),512,21490000,15.6,"i7, 1355U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3530 i7 1355U (P16WD),1024,22490000,15.6,"i7, 1355U",16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 15 3530 i7 1355U (N3530-i7U161W11BLU-FP),1024,22490000,15.6,"i7, 1355U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",thegioididong
+Dell Latitude 3440 i7 1355U (71038103),512,22790000,14,"i7, 1355U, 1.7GHz",16,Intel Iris Xe Graphics,Plastic,1.67,"3-Cell, 42 Wh",thegioididong
+Dell Inspiron 14 5440 Core 7 150U (N4I7204W1),512,24490000,14,"Core 7, 150U",16,Intel Graphics,Plastic,1.67,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 14 5440 Core 7 150U (7FN5J),1024,24990000,14,"Core 7, 150U",16,Intel Graphics,Plastic,1.56,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 14 5430 i5 1340P (N5430-i5P165W11SL2050),512,26490000,14,"i5, 1340P, 1.9GHz",16,RTX 2050 4GB,"Metal",1.78,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 16 5640 Core 7 150U (KHPF5),1024,26990000,16,"Core 7, 150U",16,"NVIDIA Geforce MX570A, 2 GB",Plastic,1.87,"4-Cell, 54 Wh",thegioididong
+Dell Inspiron 7440 Core 5 120U (N4I5006W1),1024,28990000,14,"Core 5, 120U, 1.4GHz",16,Intel Graphics,Plastic,1.74,"4-Cell, 54 Wh",thegioididong
+Dell Latitude 5350 Ultra 7 165U (L5350-165U-16512W),512,29990000,13.3,"Ultra 7, 165U, 1.7GHz",16,Intel Graphics,Plastic,1.23,"3-Cell, 54 Wh",thegioididong
+Dell Inspiron 7440 Core 7 150U (N7440-C7U161W11IBU),1024,30990000,14,"Core 7, 150U",16,Intel Graphics,Plastic-Metal,1.71,"3-Cell, 54 Wh",thegioididong
+Dell G15 5530 i7 13650HX (i7HX161W11GR4060),1024,36990000,15.6,"i7, 13650HX, 2.6GHz",16,RTX 4060 8GB,Plastic,2.81,"6-Cell, 86 Wh",thegioididong
+Dell G15 5530 i9 13900HX (i9HX161W11GR4060),1024,40990000,15.6,"i9, 13900HX, 3.90 GHz",16,RTX 4060 8GB,Plastic,2.81,"6-Cell, 86 Wh",thegioididong
+Dell XPS 13 9340 Ultra 7 155H (HXRGT),1024,54990000,13.4,"Ultra 7, 155H",16,Intel Arc Graphics,"Metal",1.17,"3-Cell, 55 Wh",thegioididong
+Dell XPS 13 9340 Ultra 7 155H (HXRGT2),1024,59990000,13.4,"Ultra 7, 155H, 3.8GHz",16,Intel Arc Graphics,"Metal",1.17,"3-Cell, 55 Wh",thegioididong
+Dell XPS 13 9350 Ultra 7 256V (XPSU7016W1),512,56990000,13.4,"Intel Core Ultra 7 Lunar Lake, 256V, 2.2GHz",16,Intel Arc Graphics,"Metal",1.19,"3-Cell, 55 Wh",thegioididong
+Dell Inspiron N3520 i5 1235U,512,14490000,15.6,Core i5,8,Intel UHD Graphics,Plastic,1.65,"3-Cell",fptshop
+Dell Inspiron N3520 i5 1235U,512,16490000,15.6,Core i5,16,Intel UHD Graphics,Plastic,1.66,"4-Cell",fptshop
+Dell Vostro V3520 i5-1235U,512,15990000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell",fptshop
+Dell Inspiron N3520 i5 1235U,512,16490000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell",fptshop
+Dell Vostro V3520 i5 1235U,512,16490000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell, 41 Wh",fptshop
+Dell Inspiron N3520 i5 1235U,512,16490000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell",fptshop
+Dell Inspiron 15 3520 i5 1235U,512,16490000,15.6,Core i5,16,Intel UHD Graphics,Plastic,1.65,"3-Cell",fptshop
+Dell Inspiron 15 3520 i5 1235U,512,16490000,15.6,Core i5,16,Intel UHD Graphics,Plastic,1.65,"Lithium Polymer",fptshop
+Dell Inspiron 15 N3520 i5 1235U,512,16490000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.65,"Lithium Polymer",fptshop
+Dell Latitude L3540 i5 1235U,512,16990000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.81,"Lithium Ion",fptshop
+Dell Inspiron N3530 i5 1334U,512,18490000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell",fptshop
+Dell Vostro 15 V3530 i5 1335U,512,18490000,15.6,Core i5,16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell",fptshop
+Dell Inspiron 14 N5440 i5 1334U,512,20990000,14,Core i5,16,Intel Iris Xe Graphics,Plastic,1.54,"3-Cell",fptshop
+Dell Vostro V3430 i5 1335U,512,18490000,14,Core i5,16,Intel Iris Xe Graphics,Plastic,1.49,"3-Cell",fptshop
+Dell Inspiron 15 3530 i7 1355U,512,21490000,15.6,Core i7,16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell",fptshop
+Dell Inspiron 15 3530 i7 1355U,512,21490000,15.6,Core i7,16,Intel Iris Xe Graphics,Plastic,1.67,"4-Cell",fptshop
+Dell Inspiron 16 N5640 i5 1334U,512,21990000,16,Core i5,16,Intel Iris Xe Graphics,Plastic,1.87,"54 Wh",fptshop
+Dell Inspiron 14 7440 2in1 Core5 120U,1024,28990000,14,Core i5,16,Intel Graphics,Plastic,1.74,"4-Cell, 54 Wh",fptshop
+Dell Gaming G15 5530 i7 13650HX,512,35490000,15.6,Core i7,16,Intel UHD Graphics,Plastic,2.81,"3-Cell",fptshop
+Dell XPS 13 9340 Ultra 7 155H,1024,55490000,13.4,Core Ultra 7,16,Intel Arc Graphics,"Metal",1.66,"3-Cell, 55 Wh",fptshop
+Dell XPS 13 9350 Ultra7 256V,512,61990000,13.4,Ultra 7,16,Intel Arc Graphics,"Metal",1.22,"3-Cell, 60 Wh",fptshop
+Dell XPS 14 9440 Ultra7 155H,1024,76990000,14.5,Core Ultra 7,64,Intel Arc Graphics,"Metal",1.95,"6-Cell",fptshop
+Dell Vostro 15 3530 (V5I3001W1),256,10890000,15.6,i3-1305U,8,Intel UHD Graphics,Plastic,1.65,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 15 3530 (V5I3465W1),512,11950000,15.6,i3 - 1305U,8,Intel UHD Graphics,Plastic,1.65,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3530 (71043884),512,12190000,15.6,i3 - 1305U,8,Intel UHD Graphics,Plastic,1.65,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 15 3520 (71027003),512,12990000,15.6,i5 - 1235U,8,Intel Iris Xe Graphics,Plastic,1.99,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3520 (71049019),512,13290000,15.6,i5 - 1235U,8,Intel UHD Graphics,Plastic,1.83,"3-Cell",hoanghamobile
+Dell Inspiron 3520,512,13990000,15.6,Intel Core i5-1235U,8,Intel UHD Graphics,Plastic,1.64,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 3520,512,13990000,15.6,Intel Core i5-1235U,16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3520,512,13990000,15.6,Intel Core i5-1235U,16,Intel UHD Graphics,Plastic,1.64,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3520,512,14490000,15.6,Intel Core i5-1235U,16,Intel Iris Xe Graphics,Plastic,1.64,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3520,512,14850000,15.6,Intel Core i5-1235U,16,Intel Iris Xe Graphics,Plastic,1.64,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3520,512,14990000,15.6,Intel Core i5-1235U,8,Intel UHD Graphics,Plastic,1.64,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3520,512,14990000,15.6,Intel Core i5-1235U,16,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3530,512,15290000,15.6,Intel Core i5-1334U,8,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",hoanghamobile
+Dell Latitude 3540,512,15490000,15.6,Intel Core i5-1235U,16,Intel Iris Xe Graphics,Plastic,1.81,"3-Cell, 42 Wh",hoanghamobile
+Dell Vostro 3530,512,15490000,15.6,Intel Core i5-1335U,16,Intel UHD Graphics,Plastic,1.64,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3520,512,15990000,15.6,Intel Core i5-1235U,16,Intel Iris Xe Graphics,Plastic,1.64,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 3430,512,15990000,14,Intel Core i5-1335U,8,Intel UHD Graphics,Plastic,1.44,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 3430,512,15990000,14,Intel Core i5-1335U,16,Intel Iris Xe Graphics,Plastic,1.44,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 5625,512,15990000,16,AMD Ryzen 7 5825U,8,AMD Radeon Graphics,Aluminum,1.97,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 3530,512,15990000,15.6,Intel Core i5-1334U,16,Intel Iris Xe Graphics,Plastic,1.62,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3530,512,16790000,15.6,Intel Core i5-1335U,16,Intel UHD Graphics,Plastic,1.83,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3530,512,16790000,15.6,Intel Core i5-1335U,16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3530,512,17290000,15.6,Intel Core i5-1334U,16,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 3530,512,17490000,15.6,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Plastic,1.63,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 5620,512,17490000,16,Intel Core i5-1235U,8,Intel Iris Xe Graphics,Aluminum,1.87,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 3550,512,18490000,15.6,Intel Core i5-1335U,16,Intel Iris Xe Graphics,Plastic,1.81,"3-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 3530,512,19990000,15.6,Intel Core i7-1355U,16,Intel Iris Xe Graphics,Plastic,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 5630,512,19990000,16,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Aluminum,1.94,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 3530,512,19990000,15.6,Intel Core i7-1355U,16,Intel Iris Xe Graphics,Plastic,1.67,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 7430,512,20490000,14,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Aluminum,1.58,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 5640,512,20990000,16,Intel Core i5-1334U,16,Intel Iris Xe Graphics,Plastic,1.87,"4-Cell, 65 Wh",hoanghamobile
+Dell Inspiron 5430,512,21490000,14,Intel Core i5-1340P,16,Intel Iris Xe Graphics,Plastic,1.53,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 5440,512,21990000,14,Intel Core i5-120U,16,Intel Graphics,Plastic,1.67,"4-Cell, 65 Wh",hoanghamobile
+Dell Inspiron 5440,1024,21990000,14,Intel Core i5-120U,16,Intel Graphics,Aluminum,1.67,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 3530,512,22190000,15.6,Intel Core i7-1355U,16,Intel Iris Xe Graphics,Plastic,1.65,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 3530,512,22390000,15.6,Intel Core i7-1355U,16,Intel Iris Xe Graphics,Plastic,1.65,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 5640,1024,22790000,16,Intel Core i5-120U,16,Intel Graphics,Plastic,1.87,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 5440,512,23490000,14,Intel Core i7-150U,16,Intel Graphics,Plastic,1.67,"4-Cell, 65 Wh",hoanghamobile
+Dell Inspiron 5440,1024,26990000,14,Intel Core i7-150U,16,Intel UHD Graphics,Aluminum,1.56,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 5640,1024,29990000,16,Intel Core i7-150U,16,Intel UHD Graphics,Aluminum,1.87,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5550,512,31290000,15.6,Intel Core i5-1335U,16,Intel Iris Xe Graphics,Plastic,1.62,"3-Cell, 54 Wh",hoanghamobile
+Dell Gaming G15,512,35490000,15.6,Intel Core i7-13650HX,16,NVIDIA RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",hoanghamobile
+Dell XPS 13 9340,1024,49990000,13.4,Intel Core i5-125H,16,Intel Arc Graphics,Plastic,1.19,"3-Cell, 55 Wh",hoanghamobile
+Dell XPS 13 Plus,512,49990000,13.4,Intel Core i7-1260P,16,Intel Iris Xe Graphics,Aluminum,1.26,"4-Cell, 55 Wh",hoanghamobile
+Dell XPS 14 9440,1024,74490000,14.5,Intel Core i7-155H,64,NVIDIA RTX 4050,Plastic,1.74,"6-Cell, 70 Wh",hoanghamobile
+Dell Inspiron 15 3535,512,14990000,15.6,AMD Ryzen 5 5625U,8,AMD Radeon Graphics,Plastic,1.65,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3430,256,12490000,14,Intel Core i5-1235U,8,Intel Iris Xe Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 16 5625,512,17990000,16,AMD Ryzen 7 5825U,16,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5430,512,21490000,14,Intel Core i7-1265U,16,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell XPS 13 Plus 9320,512,34990000,13.4,Intel Core i7-1280P,16,Intel Iris Xe Graphics,Aluminum,1.24,"3-Cell, 55 Wh",cellphones
+Dell Inspiron 14 2-in-1 7420,512,23990000,14,Intel Core i7-1255U,16,Intel Iris Xe Graphics,Aluminum,1.57,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5520,512,27490000,15.6,Intel Core i7-12700H,16,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 5570,512,38990000,15.6,Intel Core i9-12900H,32,NVIDIA RTX A2000,Aluminum,1.81,"6-Cell, 86 Wh",thegioididong
+Dell Inspiron 13 5320,256,19990000,13.3,Intel Core i5-1240P,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5620,512,18490000,16,Intel Core i5-1240P,16,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9720,1024,49990000,17,Intel Core i9-12900HK,32,NVIDIA GeForce RTX 3070,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7430,512,28490000,14,Intel Core i7-1265U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3521,512,13990000,15.6,Intel Core i5-1135G7,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5320,256,17490000,13.3,Intel Core i5-1240P,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7620,512,25990000,16,Intel Core i7-1260P,16,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9430,512,32990000,14,Intel Core i7-1265U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7620,1024,39490000,16,Intel Core i9-12900HX,32,NVIDIA GeForce RTX 3070 Ti,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5420,512,19490000,14,Intel Core i7-1255U,16,Intel Iris Xe Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9510,1024,42990000,15.6,Intel Core i9-11900H,32,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5530,512,22990000,15.6,Intel Core i7-1265U,16,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7306,512,27990000,13.3,Intel Core i7-1165G7,16,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5410,256,15990000,14,Intel Core i5-1135G7,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3530,512,15490000,15.6,Intel Core i3-1315U,8,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3440,256,14990000,14,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9315,512,29990000,13.4,Intel Core i5-1230U,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5630,512,22490000,16,Intel Core i5-1340P,8,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5530,512,24990000,15.6,Intel Core i5-13450HX,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3580,512,32490000,15.6,Intel Core i7-1365U,16,NVIDIA RTX A500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5430,512,20490000,14,Intel Core i5-1340P,8,Intel Iris Xe Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5630,512,19490000,16,Intel Core i5-1340P,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9730,1024,44990000,17,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4050,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7440,512,29490000,14,Intel Core i5-1335U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3520,256,12990000,15.6,Intel Core i3-1215U,8,Intel UHD Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5330,256,16490000,13.3,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7630,512,23990000,16,Intel Core i5-1340P,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9440,512,34990000,14,Intel Core i7-1365U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7630,1024,37490000,16,Intel Core i7-13650HX,16,NVIDIA GeForce RTX 4060,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5425,512,18490000,14,AMD Ryzen 5 5625U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9520,1024,40490000,15.6,Intel Core i7-12700H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5540,512,21990000,15.6,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7300,512,26490000,13.3,Intel Core i5-1135G7,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5420,256,14990000,14,Intel Core i3-1215U,8,Intel UHD Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3540,512,14490000,15.6,Intel Core i3-1305U,8,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3450,256,13990000,14,Intel Core i3-1315U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9320,512,28990000,13.4,Intel Core i5-1240P,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5635,512,21490000,16,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5525,512,23990000,15.6,AMD Ryzen 5 6600H,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3570,512,31490000,15.6,Intel Core i5-1245U,8,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5435,512,19490000,14,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5635,512,19990000,16,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9735,1024,45490000,17,Intel Core i7-13750H,16,NVIDIA GeForce RTX 4050 Ti,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7445,512,29990000,14,Intel Core i5-1340P,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3525,256,13490000,15.6,AMD Ryzen 3 5300U,8,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5340,256,16990000,13.3,Intel Core i5-1345U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7635,512,24490000,16,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9445,512,35490000,14,Intel Core i7-13750H,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7640,1024,38490000,16,Intel Core i7-13650HX,16,NVIDIA GeForce RTX 4060,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5435,512,19990000,14,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9525,1024,40990000,15.6,Intel Core i7-12700H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5545,512,22490000,15.6,Intel Core i5-1340P,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7305,512,26990000,13.3,AMD Ryzen 5 5500U,8,AMD Radeon Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5425,256,15490000,14,Intel Core i3-1215U,8,Intel UHD Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3545,512,14990000,15.6,Intel Core i3-1305U,8,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3455,256,14490000,14,Intel Core i3-1315U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9325,512,29490000,13.4,Intel Core i5-1240P,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5635,512,21990000,16,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5525,512,24490000,15.6,AMD Ryzen 5 6600H,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3575,512,31990000,15.6,Intel Core i5-1245U,8,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5435,512,20490000,14,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5635,512,20490000,16,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9735,1024,45990000,17,Intel Core i7-13750H,16,NVIDIA GeForce RTX 4050 Ti,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7445,512,30490000,14,Intel Core i5-1340P,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3525,256,13990000,15.6,AMD Ryzen 3 5300U,8,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5340,256,17490000,13.3,Intel Core i5-1345U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7635,512,24990000,16,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9445,512,35990000,14,Intel Core i7-13750H,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7640,1024,38990000,16,Intel Core i7-13650HX,16,NVIDIA GeForce RTX 4060,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5435,512,20990000,14,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9525,1024,41490000,15.6,Intel Core i7-12700H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5545,512,22990000,15.6,Intel Core i5-1340P,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7305,512,27490000,13.3,AMD Ryzen 5 5500U,8,AMD Radeon Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Inspiron 15 3541,512,15490000,15.6,AMD Ryzen 3 7320U,8,AMD Radeon Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3435,256,12990000,14,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 16 5630,512,18490000,16,Intel Core i7-1355U,16,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5440,512,22490000,14,Intel Core i5-1335U,16,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell XPS 13 Plus 9320,1024,36990000,13.4,Intel Core i9-1290P,16,Intel Iris Xe Graphics,Aluminum,1.24,"3-Cell, 55 Wh",cellphones
+Dell Inspiron 14 2-in-1 7430,512,24990000,14,Intel Core i5-1335U,16,Intel Iris Xe Graphics,Aluminum,1.57,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5530,512,28490000,15.6,Intel Core i7-13650HX,16,NVIDIA GeForce RTX 4050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 5580,512,40990000,15.6,Intel Core i7-13700H,32,NVIDIA RTX A2000,Aluminum,1.81,"6-Cell, 86 Wh",thegioididong
+Dell Inspiron 13 5330,256,20990000,13.3,Intel Core i7-1355U,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5635,512,19490000,16,AMD Ryzen 7 7730U,16,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9730,1024,51990000,17,Intel Core i9-13900H,32,NVIDIA GeForce RTX 4070,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7440,512,29990000,14,Intel Core i7-1365U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3535,512,14490000,15.6,AMD Ryzen 3 5300U,8,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5330,256,17990000,13.3,Intel Core i7-1355U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7630,512,26490000,16,Intel Core i7-1370P,16,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9440,512,33490000,14,Intel Core i5-1345U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7630,1024,40490000,16,Intel Core i9-13900HX,32,NVIDIA GeForce RTX 4080,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5430,512,20490000,14,Intel Core i7-1355U,16,Intel Iris Xe Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9530,1024,45490000,15.6,Intel Core i7-13700H,32,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5540,512,23490000,15.6,Intel Core i7-1365U,16,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7306,512,28490000,13.3,Intel Core i7-1185G7,16,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5420,256,16490000,14,Intel Core i5-1235U,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3540,512,15990000,15.6,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3440,256,15490000,14,Intel Core i7-1355U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9320,512,30490000,13.4,Intel Core i7-1260P,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5635,512,21990000,16,AMD Ryzen 7 7730U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5525,512,24490000,15.6,AMD Ryzen 7 6800H,8,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3570,512,32490000,15.6,Intel Core i7-1265U,16,NVIDIA T550,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5435,512,20490000,14,AMD Ryzen 7 7730U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5630,512,20490000,16,Intel Core i7-1355U,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9730,1024,45490000,17,Intel Core i9-13900H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7440,512,30490000,14,Intel Core i7-1365U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3520,256,13490000,15.6,Intel Core i5-1235U,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5330,256,16990000,13.3,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7630,512,24490000,16,Intel Core i5-1340P,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9440,512,35490000,14,Intel Core i7-1365U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7630,1024,38490000,16,Intel Core i7-13650HX,16,NVIDIA GeForce RTX 4070,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5425,512,19490000,14,AMD Ryzen 7 5825U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9520,1024,41490000,15.6,Intel Core i9-12900H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5540,512,22490000,15.6,Intel Core i7-1365U,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7300,512,27490000,13.3,Intel Core i5-1165G7,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5420,256,15490000,14,Intel Core i5-1235U,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3540,512,15490000,15.6,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3450,256,14490000,14,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9320,512,29490000,13.4,Intel Core i5-1240P,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5635,512,22490000,16,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5525,512,23490000,15.6,AMD Ryzen 5 6600H,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3570,512,31990000,15.6,Intel Core i5-1245U,8,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5435,512,19990000,14,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Inspiron 15 3542,512,16490000,15.6,AMD Ryzen 5 7535U,8,AMD Radeon Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3436,256,13490000,14,AMD Ryzen 3 7330U,8,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 16 5632,512,19490000,16,Intel Core i7-1360P,16,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5442,512,23490000,14,Intel Core i5-1340U,16,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell XPS 13 Plus 9330,1024,37490000,13.4,Intel Core i9-1390P,16,Intel Iris Xe Graphics,Aluminum,1.24,"3-Cell, 55 Wh",cellphones
+Dell Inspiron 14 2-in-1 7432,512,25490000,14,Intel Core i7-1360U,16,Intel Iris Xe Graphics,Aluminum,1.57,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5532,512,29490000,15.6,Intel Core i7-13700HX,16,NVIDIA GeForce RTX 4060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 5582,512,41490000,15.6,Intel Core i9-13900H,32,NVIDIA RTX A3000,Aluminum,1.81,"6-Cell, 86 Wh",thegioididong
+Dell Inspiron 13 5332,256,21490000,13.3,Intel Core i7-1360P,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5632,512,20490000,16,AMD Ryzen 7 7735U,16,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9732,1024,52490000,17,Intel Core i9-13950H,32,NVIDIA GeForce RTX 4080,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7442,512,30490000,14,Intel Core i7-1370U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3536,512,15490000,15.6,AMD Ryzen 5 5500U,8,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5332,256,18490000,13.3,Intel Core i7-1360P,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7632,512,27490000,16,Intel Core i7-1365U,16,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9442,512,34490000,14,Intel Core i5-1350U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7632,1024,41490000,16,Intel Core i9-13980HX,32,NVIDIA GeForce RTX 4090,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5432,512,21490000,14,Intel Core i7-1360P,16,Intel Iris Xe Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9532,1024,46490000,15.6,Intel Core i7-13800H,32,NVIDIA GeForce RTX 4060,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5542,512,24490000,15.6,Intel Core i7-1370U,16,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7302,512,29490000,13.3,Intel Core i7-1195G7,16,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5430,256,17490000,14,Intel Core i5-1340U,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3542,512,16490000,15.6,Intel Core i5-1340U,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3452,256,16490000,14,Intel Core i7-1360U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9332,512,31490000,13.4,Intel Core i7-1370P,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5638,512,22490000,16,AMD Ryzen 7 7735HS,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5538,512,25490000,15.6,AMD Ryzen 7 7735HS,8,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3582,512,33490000,15.6,Intel Core i7-1370U,16,NVIDIA T550,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5438,512,21490000,14,AMD Ryzen 7 7735HS,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5638,512,21490000,16,Intel Core i7-1370P,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9738,1024,46490000,17,Intel Core i9-13900H,16,NVIDIA GeForce RTX 4070,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7448,512,31490000,14,Intel Core i7-1380U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3522,256,14490000,15.6,Intel Core i5-1245U,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5338,256,17490000,13.3,Intel Core i5-1340U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7638,512,25490000,16,Intel Core i5-1370P,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9448,512,36490000,14,Intel Core i7-1380U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7638,1024,39490000,16,Intel Core i7-13900HX,16,NVIDIA GeForce RTX 4080,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5432,512,20490000,14,AMD Ryzen 7 5825U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9538,1024,43490000,15.6,Intel Core i9-13900H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5548,512,23490000,15.6,Intel Core i7-1380U,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7308,512,28490000,13.3,Intel Core i5-1130G7,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5438,256,16490000,14,Intel Core i3-1315U,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3548,512,15490000,15.6,Intel Core i3-1310U,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3458,256,14490000,14,Intel Core i3-1310U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9338,512,29490000,13.4,Intel Core i5-1330P,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5642,512,21490000,16,AMD Ryzen 5 7535HS,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5542,512,24490000,15.6,AMD Ryzen 5 7535HS,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3588,512,31490000,15.6,Intel Core i5-1330U,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5442,512,19490000,14,AMD Ryzen 5 7535HS,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5642,512,19490000,16,Intel Core i5-1330P,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9742,1024,44490000,17,Intel Core i7-13705H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7442,512,29490000,14,Intel Core i5-1330U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3526,256,13490000,15.6,Intel Core i3-1217U,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5342,256,16490000,13.3,Intel Core i5-1345U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7642,512,23490000,16,Intel Core i5-1345P,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9452,512,34490000,14,Intel Core i7-1360U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7642,1024,37490000,16,Intel Core i7-13705HX,16,NVIDIA GeForce RTX 4070,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5442,512,18490000,14,AMD Ryzen 5 5825U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9542,1024,41490000,15.6,Intel Core i9-13905H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5552,512,21490000,15.6,Intel Core i7-1385U,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7312,512,26490000,13.3,Intel Core i5-1160G7,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5442,256,14490000,14,Intel Core i3-1320U,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3552,512,14490000,15.6,Intel Core i3-1320U,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3462,256,13490000,14,Intel Core i3-1320U,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9342,512,28490000,13.4,Intel Core i5-1335P,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5652,512,21490000,16,AMD Ryzen 5 7640HS,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5552,512,23490000,15.6,AMD Ryzen 5 7640HS,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3592,512,30490000,15.6,Intel Core i5-1335U,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5452,512,18490000,14,AMD Ryzen 5 7640HS,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5652,512,18490000,16,Intel Core i5-1335U,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9752,1024,43490000,17,Intel Core i7-13805H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7452,512,28490000,14,Intel Core i5-1345U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3532,256,12490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5352,256,15490000,13.3,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7652,512,22490000,16,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9462,512,33490000,14,Intel Core i7-N305,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7652,1024,36490000,16,Intel Core i7-N305,16,NVIDIA GeForce RTX 4070,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5452,512,17490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9552,1024,40490000,15.6,Intel Core i9-13980H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5562,512,20490000,15.6,Intel Core i7-13800H,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7322,512,25490000,13.3,Intel Core i5-1350U,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5452,256,13490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3562,512,13490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3472,256,12490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9352,512,27490000,13.4,Intel Core i5-1345U,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5662,512,20490000,16,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5562,512,22490000,15.6,AMD Ryzen 5 7640U,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3592,512,29490000,15.6,Intel Core i5-1350U,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5462,512,17490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5662,512,17490000,16,Intel Core i5-1345U,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9762,1024,42490000,17,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7462,512,27490000,14,Intel Core i5-1350U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3532,256,11490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5362,256,14490000,13.3,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7662,512,21490000,16,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9472,512,32490000,14,Intel Core i7-N305,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7662,1024,35490000,16,Intel Core i7-N305,16,NVIDIA GeForce RTX 4070,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5462,512,16490000,14,AMD Ryzen 5 7640HS,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9562,1024,39490000,15.6,Intel Core i9-13900H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5572,512,19490000,15.6,Intel Core i7-13800H,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7332,512,24490000,13.3,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5462,256,12490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3572,512,12490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3482,256,11490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9362,512,26490000,13.4,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5672,512,19490000,16,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5572,512,21490000,15.6,AMD Ryzen 5 7640U,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3502,512,28490000,15.6,Intel Core i5-1355U,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5472,512,16490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5672,512,16490000,16,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9772,1024,41490000,17,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7472,512,26490000,14,Intel Core i5-1355U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3575,512,17490000,15.6,AMD Ryzen 7 7730U,8,AMD Radeon Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3475,256,14490000,14,AMD Ryzen 5 7530U,8,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 16 5675,512,21490000,16,Intel Core i7-13620H,16,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5482,512,24490000,14,Intel Core i5-13420H,16,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell XPS 13 Plus 9372,1024,38490000,13.4,Intel Core i9-13900K,16,Intel Iris Xe Graphics,Aluminum,1.24,"3-Cell, 55 Wh",cellphones
+Dell Inspiron 14 2-in-1 7472,512,26490000,14,Intel Core i7-13620H,16,Intel Iris Xe Graphics,Aluminum,1.57,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5575,512,30490000,15.6,Intel Core i7-13705H,16,NVIDIA GeForce RTX 4060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 5592,512,42490000,15.6,Intel Core i9-13905H,32,NVIDIA RTX A3000,Aluminum,1.81,"6-Cell, 86 Wh",thegioididong
+Dell Inspiron 13 5372,256,22490000,13.3,Intel Core i7-13620H,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5675,512,21490000,16,AMD Ryzen 7 7735HS,16,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9775,1024,53490000,17,Intel Core i9-13980HX,32,NVIDIA GeForce RTX 4080,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7482,512,31490000,14,Intel Core i7-13705H,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3576,512,16490000,15.6,AMD Ryzen 5 7535HS,8,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5372,256,19490000,13.3,Intel Core i7-13620H,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7672,512,28490000,16,Intel Core i7-13705H,16,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9475,512,35490000,14,Intel Core i5-13420H,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7672,1024,42490000,16,Intel Core i9-13980HX,32,NVIDIA GeForce RTX 4090,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5475,512,22490000,14,Intel Core i7-13620H,16,Intel Iris Xe Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9572,1024,47490000,15.6,Intel Core i7-13805H,32,NVIDIA GeForce RTX 4060,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5582,512,25490000,15.6,Intel Core i7-13705H,16,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7315,512,30490000,13.3,Intel Core i7-11900H,16,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5472,256,18490000,14,Intel Core i5-13420H,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3577,512,17490000,15.6,Intel Core i5-13420H,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3485,256,17490000,14,Intel Core i7-13620H,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9375,512,32490000,13.4,Intel Core i7-13705H,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5677,512,23490000,16,AMD Ryzen 7 7735HS,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5577,512,26490000,15.6,AMD Ryzen 7 7735HS,8,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3595,512,34490000,15.6,Intel Core i7-13705H,16,NVIDIA T550,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5477,512,22490000,14,AMD Ryzen 7 7735HS,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5677,512,22490000,16,Intel Core i7-13705H,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9777,1024,47490000,17,Intel Core i9-13900K,16,NVIDIA GeForce RTX 4070,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7477,512,32490000,14,Intel Core i7-13705H,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3578,256,15490000,15.6,Intel Core i5-13420H,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5377,256,18490000,13.3,Intel Core i5-13420H,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7677,512,26490000,16,Intel Core i5-13705H,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9482,512,37490000,14,Intel Core i7-13900K,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7677,1024,40490000,16,Intel Core i7-13705H,16,NVIDIA GeForce RTX 4080,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5478,512,20490000,14,AMD Ryzen 7 5825U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9577,1024,44490000,15.6,Intel Core i9-13905H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5588,512,24490000,15.6,Intel Core i7-13705H,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7382,512,29490000,13.3,Intel Core i5-11620G7,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5478,256,17490000,14,Intel Core i3-13705H,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3582,512,16490000,15.6,Intel Core i3-13705H,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3492,256,16490000,14,Intel Core i3-13705H,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9382,512,31490000,13.4,Intel Core i5-13900K,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5682,512,22490000,16,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5582,512,25490000,15.6,AMD Ryzen 5 7640U,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3505,512,33490000,15.6,Intel Core i5-13705H,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5482,512,20490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5682,512,20490000,16,Intel Core i5-13705H,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9782,1024,45490000,17,Intel Core i7-13705H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7482,512,30490000,14,Intel Core i5-13705H,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3528,256,14490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5382,256,17490000,13.3,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7682,512,24490000,16,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9492,512,35490000,14,Intel Core i7-N305,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7682,1024,38490000,16,Intel Core i7-N305,16,NVIDIA GeForce RTX 4070,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5482,512,19490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9582,1024,43490000,15.6,Intel Core i9-13905H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5592,512,23490000,15.6,Intel Core i7-13705H,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7392,512,28490000,13.3,Intel Core i5-13600H,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5482,256,16490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3592,512,15490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3405,256,15490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9392,512,30490000,13.4,Intel Core i5-13600H,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5692,512,21490000,16,AMD Ryzen 5 7640HS,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5592,512,24490000,15.6,AMD Ryzen 5 7640HS,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3515,512,32490000,15.6,Intel Core i5-13600H,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5492,512,19490000,14,AMD Ryzen 5 7640HS,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5692,512,19490000,16,Intel Core i5-13600H,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9792,1024,44490000,17,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7492,512,29490000,14,Intel Core i5-13600H,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3538,256,13490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5392,256,16490000,13.3,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7692,512,23490000,16,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9405,512,34490000,14,Intel Core i7-N305,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7692,1024,37490000,16,Intel Core i7-N305,16,NVIDIA GeForce RTX 4070,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5495,512,18490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9592,1024,41490000,15.6,Intel Core i9-13900H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5505,512,21490000,15.6,Intel Core i7-13700H,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7305,512,26490000,13.3,Intel Core i5-1350U,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5492,256,14490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3505,512,14490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3415,256,13490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9305,512,28490000,13.4,Intel Core i5-1350U,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5605,512,21490000,16,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5505,512,23490000,15.6,AMD Ryzen 5 7640U,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3525,512,31490000,15.6,Intel Core i5-1350U,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5405,512,18490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5605,512,18490000,16,Intel Core i5-1350U,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9705,1024,43490000,17,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7405,512,28490000,14,Intel Core i5-1350U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3545,512,16990000,15.6,AMD Ryzen 7 7735U,8,AMD Radeon Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3445,256,13990000,14,AMD Ryzen 5 7535U,8,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Inspiron 16 5645,512,22490000,16,Intel Core i7-13650HX,16,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5455,512,25490000,14,Intel Core i5-1355U,16,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell XPS 13 Plus 9345,1024,39490000,13.4,Intel Core i9-13900H,16,Intel Iris Xe Graphics,Aluminum,1.24,"3-Cell, 55 Wh",cellphones
+Dell Inspiron 14 2-in-1 7445,512,27490000,14,Intel Core i7-13650HX,16,Intel Iris Xe Graphics,Aluminum,1.57,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5545,512,31490000,15.6,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 5555,512,43490000,15.6,Intel Core i9-13950HX,32,NVIDIA RTX A3000,Aluminum,1.81,"6-Cell, 86 Wh",thegioididong
+Dell Inspiron 13 5345,256,23490000,13.3,Intel Core i7-13650HX,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5645,512,22490000,16,AMD Ryzen 7 7745U,16,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9745,1024,54490000,17,Intel Core i9-13980HX,32,NVIDIA GeForce RTX 4080,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7455,512,32490000,14,Intel Core i7-13700H,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3546,512,17490000,15.6,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5345,256,20490000,13.3,Intel Core i7-13650HX,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7645,512,29490000,16,Intel Core i7-13700H,16,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9445,512,36490000,14,Intel Core i5-1355U,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7645,1024,43490000,16,Intel Core i9-13980HX,32,NVIDIA GeForce RTX 4090,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5445,512,23490000,14,Intel Core i7-13650HX,16,Intel Iris Xe Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9545,1024,48490000,15.6,Intel Core i7-13800H,32,NVIDIA GeForce RTX 4060,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5555,512,26490000,15.6,Intel Core i7-13700H,16,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7325,512,31490000,13.3,Intel Core i7-11980H,16,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5445,256,19490000,14,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3547,512,18490000,15.6,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3455,256,18490000,14,Intel Core i7-13650HX,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9345,512,33490000,13.4,Intel Core i7-13700H,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5648,512,23490000,16,AMD Ryzen 7 7745HS,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5548,512,27490000,15.6,AMD Ryzen 7 7745HS,8,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3555,512,35490000,15.6,Intel Core i7-13700H,16,NVIDIA T550,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5448,512,23490000,14,AMD Ryzen 7 7745HS,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5648,512,23490000,16,Intel Core i7-13700H,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9748,1024,48490000,17,Intel Core i9-13900K,16,NVIDIA GeForce RTX 4070,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7458,512,33490000,14,Intel Core i7-13700H,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3555,256,16490000,15.6,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5348,256,19490000,13.3,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7648,512,28490000,16,Intel Core i5-13700H,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9455,512,38490000,14,Intel Core i7-13900K,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7648,1024,41490000,16,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4080,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5455,512,21490000,14,AMD Ryzen 7 5825U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9548,1024,45490000,15.6,Intel Core i9-13900H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5558,512,25490000,15.6,Intel Core i7-13700H,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7335,512,30490000,13.3,Intel Core i5-1165G7,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5455,256,18490000,14,Intel Core i3-13700H,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3548,512,17490000,15.6,Intel Core i3-13700H,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3465,256,16490000,14,Intel Core i3-13700H,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9348,512,32490000,13.4,Intel Core i5-13900K,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5655,512,23490000,16,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5555,512,26490000,15.6,AMD Ryzen 5 7640U,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3565,512,34490000,15.6,Intel Core i5-13700H,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5455,512,21490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5655,512,21490000,16,Intel Core i5-13700H,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9755,1024,46490000,17,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7465,512,31490000,14,Intel Core i5-13700H,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3535,256,15490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 13 5355,256,18490000,13.3,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.2,"4-Cell, 51 Wh",hoanghamobile
+Dell Inspiron 16 7655,512,25490000,16,Intel Core i5-N305,8,Intel Iris Xe Graphics,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 9465,512,36490000,14,Intel Core i7-N305,16,Intel Iris Xe Graphics,Aluminum,1.07,"2-Cell, 40 Wh",thegioididong
+Dell G16 7655,1024,39490000,16,Intel Core i7-N305,16,NVIDIA GeForce RTX 4070,Plastic,2.52,"6-Cell, 86 Wh",cellphones
+Dell Inspiron 14 5465,512,20490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 15 9555,1024,44490000,15.6,Intel Core i9-13900H,16,NVIDIA GeForce RTX 3050 Ti,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5565,512,24490000,15.6,Intel Core i7-13700H,8,Intel Iris Xe Graphics,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 7355,512,29490000,13.3,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 52 Wh",cellphones
+Dell Vostro 14 5465,256,17490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell Inspiron 15 3555,512,16490000,15.6,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Latitude 3475,256,15490000,14,Intel Core i3-N305,8,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 42 Wh",thegioididong
+Dell XPS 13 9355,512,31490000,13.4,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5665,512,23490000,16,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.92,"4-Cell, 54 Wh",hoanghamobile
+Dell G15 5565,512,25490000,15.6,AMD Ryzen 5 7640U,8,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Precision 3575,512,33490000,15.6,Intel Core i5-1355U,16,NVIDIA T500,Aluminum,1.79,"3-Cell, 51 Wh",thegioididong
+Dell Inspiron 14 5465,512,20490000,14,AMD Ryzen 5 7640U,8,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",cellphones
+Dell Vostro 15 5665,512,20490000,16,Intel Core i5-1355U,8,Intel Iris Xe Graphics,Aluminum,1.91,"3-Cell, 54 Wh",hoanghamobile
+Dell XPS 17 9765,1024,45490000,17,Intel Core i7-13700H,16,NVIDIA GeForce RTX 4060,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7465,512,30490000,14,Intel Core i5-1355U,16,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 15 3555 Ryzen 3,256,11990000,15.6,AMD Ryzen 3 7320U,8GB,AMD Radeon Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3555 Ryzen 5,512,14990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.66,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 14 5455 Ryzen 7,512,19990000,14,AMD Ryzen 7 7735U,16GB,AMD Radeon Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell Vostro 14 5455 Ryzen 5 Pro,256,15990000,14,AMD Ryzen 5 PRO 7645HS,8GB,AMD Radeon Graphics,Aluminum,1.44,"3-Cell, 40 Wh",hoanghamobile
+Dell XPS 13 9355 i5,512,31990000,13.4,Intel Core i5-1340P,8GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell XPS 13 9355 i7,512,36990000,13.4,Intel Core i7-13700H,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 15 3555 i3,256,12490000,15.6,Intel Core i3-1315U,8GB,Intel UHD Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 3555 i5,512,15490000,15.6,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.66,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 16 7655 i7,512,23490000,16,Intel Core i7-13620H,16GB,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5455 i5 MX550,512,27490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell Latitude 5455 i7 MX550,512,32490000,14,Intel Core i7-1365U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5545 i5 RTX 3050,512,29490000,15.6,Intel Core i5-13450HX,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell G15 5545 i7 RTX 3060,1024,37490000,15.6,Intel Core i7-13700HX,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9545 i7 RTX 4050,1024,49490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9545 i9 RTX 4070,1024,59490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 3530 Core i3,256,10990000,15.6,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.9,"3-Cell, 41 Wh",cellphones
+Dell Vostro 3530 Core i5,512,14990000,15.6,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.9,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 14 5440 Core i5,512,20990000,14,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.65,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 14 5440 Core i7,1024,26990000,14,Intel Core i7-150U,16GB,Intel Iris Xe Graphics,Aluminum,1.65,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 13 9340 Ultra 5,512,44990000,13.4,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.17,"3-Cell, 55 Wh",fptshop
+Dell Inspiron 15 3565 Ryzen 3,512,12990000,15.6,AMD Ryzen 3 7330U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Inspiron 15 3565 Ryzen 5,512,15990000,15.6,AMD Ryzen 5 7535U,16GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 14 3465 Ryzen 5,256,14490000,14,AMD Ryzen 5 7530U,8GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 14 3465 Ryzen 7,512,18490000,14,AMD Ryzen 7 7735U,16GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell XPS 13 9365 Core i5,256,30490000,13.4,Intel Core i5-1340P,8GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell XPS 13 9365 Core i7,512,35490000,13.4,Intel Core i7-13700H,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 16 5665 Core i5,512,19990000,16,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Inspiron 16 5665 Core i7,512,25490000,16,Intel Core i7-13620H,16GB,Intel Iris Xe Graphics,Aluminum,1.92,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5565 MX550 Core i5,512,26490000,15.6,Intel Core i5-1335U,8GB,NVIDIA GeForce MX550,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell Latitude 5565 MX550 Core i7,512,31490000,15.6,Intel Core i7-1365U,16GB,NVIDIA GeForce MX550,Aluminum,1.79,"3-Cell, 52 Wh",thegioididong
+Dell G15 5555 RTX 3050 Ryzen 5,512,27490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell G15 5555 RTX 3060 Ryzen 7,1024,35490000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9555 RTX 4050 Core i7,1024,47490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9555 RTX 4060 Core i9,1024,57490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4060,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 5475 Ultra 5,512,33990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 14 5475 Ultra 7,1024,41990000,14,Intel Core Ultra 7,16GB,Intel Arc Graphics,Aluminum,1.55,"4-Cell, 54 Wh",hoanghamobile
+Dell Vostro 16 5675 Ryzen 5,512,17490000,16,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",cellphones
+Dell Vostro 16 5675 Ryzen 7,1024,21490000,16,AMD Ryzen 7 7735U,16GB,AMD Radeon Graphics,Aluminum,1.91,"3-Cell, 54 Wh",cellphones
+Dell XPS 17 9775 RTX 4050 Core i7,1024,53490000,17,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell XPS 17 9775 RTX 4070 Core i9,1024,63490000,17,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,2.42,"6-Cell, 97 Wh",fptshop
+Dell Latitude 7475 Core i5,512,28990000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Latitude 7475 Core i7,1024,34990000,14,Intel Core i7-1365U,16GB,Intel Iris Xe Graphics,Aluminum,1.27,"3-Cell, 52 Wh",thegioididong
+Dell Inspiron 13 5375 Core i5,256,21490000,13.3,Intel Core i5-1340P,8GB,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 54 Wh",cellphones
+Dell Inspiron 13 5375 Core i7,512,27490000,13.3,Intel Core i7-13700H,16GB,Intel Iris Xe Graphics,Aluminum,1.25,"4-Cell, 54 Wh",cellphones
+Dell G15 5540 RTX 4050 Core i5,512,31990000,15.6,Intel Core i5-13450HX,8GB,NVIDIA GeForce RTX 4050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell G15 5540 RTX 4060 Core i7,1024,39990000,15.6,Intel Core i7-13700HX,16GB,NVIDIA GeForce RTX 4060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9540 RTX 4060 Core i7,1024,52490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4060,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9540 RTX 4070 Core i9,1024,62490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Latitude 5440 MX550 Core i5,512,29490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell Latitude 5440 MX550 Core i7,1024,35490000,14,Intel Core i7-1365U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell Inspiron 14 3445 Ryzen 3,256,11490000,14,AMD Ryzen 3 7320U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 14 3445 Ryzen 5,512,14490000,14,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5545 Ryzen 7,512,19490000,15.6,AMD Ryzen 7 7735U,16GB,AMD Radeon Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Vostro 13 5345 Ryzen 5 Pro,256,15490000,13.3,AMD Ryzen 5 PRO 7645HS,8GB,AMD Radeon Graphics,Aluminum,1.2,"3-Cell, 40 Wh",hoanghamobile
+Dell XPS 13 9345 Core i5,256,30990000,13.4,Intel Core i5-1340P,8GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell XPS 13 9345 Core i7,512,35990000,13.4,Intel Core i7-13700H,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 14 3445 Core i3,256,11990000,14,Intel Core i3-1315U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 14 3445 Core i5,512,14990000,14,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5545 Core i7,512,22490000,15.6,Intel Core i7-13620H,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5445 MX550 Core i5,512,26990000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell Latitude 5445 MX550 Core i7,1024,31990000,14,Intel Core i7-1365U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5545 RTX 3050 Core i5,512,28990000,15.6,Intel Core i5-13450HX,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell G15 5545 RTX 3060 Core i7,1024,36990000,15.6,Intel Core i7-13700HX,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9545 RTX 4050 Core i7,512,48990000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9545 RTX 4070 Core i9,1024,58990000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3430 Core i3,256,10490000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3430 Core i5,512,14490000,14,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5540 Core i5,512,20490000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 15 5540 Core i7,1024,26490000,15.6,Intel Core i7-150U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 13 9340 Ultra 5,256,43990000,13.4,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.17,"3-Cell, 55 Wh",fptshop
+Dell Inspiron 15 3555 Ryzen 5,512,15490000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 14 3455 Ryzen 3,256,13490000,14,AMD Ryzen 3 7330U,8GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 14 3455 Ryzen 5,512,16990000,14,AMD Ryzen 5 7735U,16GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell XPS 13 9355 Core i5,512,31490000,13.4,Intel Core i5-1340P,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 15 5555 Core i5,512,19490000,15.6,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5455 MX550 Core i5,512,27490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5555 RTX 3050 Ryzen 5,512,29990000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9555 RTX 4050 Core i7,1024,49490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3465 Core i3,256,11490000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5565 Core i5,512,19990000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5465 Core i5,512,27490000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5565 RTX 3060 Ryzen 7,1024,37990000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9565 RTX 4070 Core i9,1024,59990000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3475 Ultra 5,256,35990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5575 Ryzen 5,512,15990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5475 MX550 Core i5,512,27990000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5575 RTX 3050 Ryzen 5,512,30490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9575 RTX 4050 Core i7,1024,49990000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3485 Core i3,256,11990000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5585 Core i5,512,20490000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5485 Core i5,512,27990000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5585 RTX 3060 Ryzen 7,1024,38490000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9585 RTX 4070 Core i9,1024,60490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3495 Ultra 5,256,36490000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5595 Ryzen 5,512,16490000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5495 MX550 Core i5,512,28490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5595 RTX 3050 Ryzen 5,512,30990000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9595 RTX 4050 Core i7,1024,50490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3405 Core i3,256,12490000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5505 Core i5,512,20990000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5505 Core i5,512,28490000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5505 RTX 3060 Ryzen 7,1024,38990000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9505 RTX 4070 Core i9,1024,60990000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3415 Ultra 5,256,36990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5515 Ryzen 5,512,16990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5515 MX550 Core i5,512,28990000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5515 RTX 3050 Ryzen 5,512,31490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9515 RTX 4050 Core i7,1024,50990000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3415 Core i3,256,12990000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5510 Core i5,512,21490000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5510 Core i5,512,28990000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5510 RTX 3060 Ryzen 7,1024,39490000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9510 RTX 4070 Core i9,1024,61490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3425 Ultra 5,256,37490000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5525 Ryzen 5,512,17490000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5525 MX550 Core i5,512,29490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5525 RTX 3050 Ryzen 5,512,31990000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9525 RTX 4050 Core i7,1024,51490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3435 Core i3,256,13490000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5530 Core i5,512,21990000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5530 Core i5,512,29490000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5530 RTX 3060 Ryzen 7,1024,39990000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9530 RTX 4070 Core i9,1024,61990000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3430 Ultra 5,256,37990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5535 Ryzen 5,512,17990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5535 MX550 Core i5,512,29990000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5535 RTX 3050 Ryzen 5,512,32490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9535 RTX 4050 Core i7,1024,51990000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3455 Ryzen 3,512,12490000,14,AMD Ryzen 3 7320U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 14 3455 Ryzen 5,512,15490000,14,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5555 Ryzen 7,512,20490000,15.6,AMD Ryzen 7 7735U,16GB,AMD Radeon Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Vostro 13 5355 Ryzen 5 Pro,512,16490000,13.3,AMD Ryzen 5 PRO 7645HS,8GB,AMD Radeon Graphics,Aluminum,1.2,"3-Cell, 40 Wh",hoanghamobile
+Dell XPS 13 9355 Core i5,512,32490000,13.4,Intel Core i5-1340P,8GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell XPS 13 9355 Core i7,512,36490000,13.4,Intel Core i7-13700H,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 14 3455 Core i3,512,12990000,14,Intel Core i3-1315U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 14 3455 Core i5,512,15990000,14,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5555 Core i7,512,22990000,15.6,Intel Core i7-13620H,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5455 MX550 Core i5,512,27990000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell Latitude 5455 MX550 Core i7,512,32990000,14,Intel Core i7-1365U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5555 RTX 3050 Core i5,512,29490000,15.6,Intel Core i5-13450HX,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell G15 5555 RTX 3060 Core i7,512,37490000,15.6,Intel Core i7-13700HX,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9555 RTX 4050 Core i7,512,49490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9555 RTX 4070 Core i9,512,59490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3460 Core i3,512,10990000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3460 Core i5,512,14990000,14,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5560 Core i5,512,20990000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 15 5560 Core i7,512,26990000,15.6,Intel Core i7-150U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 13 9360 Ultra 5,512,44490000,13.4,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.17,"3-Cell, 55 Wh",fptshop
+Dell Inspiron 15 3570 Ryzen 5,512,15990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 14 3470 Ryzen 3,512,13990000,14,AMD Ryzen 3 7330U,8GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 14 3470 Ryzen 5,512,17490000,14,AMD Ryzen 5 7735U,16GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell XPS 13 9370 Core i5,512,31990000,13.4,Intel Core i5-1340P,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 15 5570 Core i5,512,19990000,15.6,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5470 MX550 Core i5,512,27490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5570 RTX 3050 Ryzen 5,512,30490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9570 RTX 4050 Core i7,512,49490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3480 Core i3,512,11490000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5580 Core i5,512,21490000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5480 Core i5,512,28490000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5580 RTX 3060 Ryzen 7,512,38490000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9580 RTX 4070 Core i9,512,60490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3490 Ultra 5,512,36490000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5590 Ryzen 5,512,16490000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5490 MX550 Core i5,512,28490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5590 RTX 3050 Ryzen 5,512,30990000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9590 RTX 4050 Core i7,512,50490000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3500 Core i3,512,11990000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5500 Core i5,512,21990000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5500 Core i5,512,28990000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5500 RTX 3060 Ryzen 7,512,38990000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9500 RTX 4070 Core i9,512,60990000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3510 Ultra 5,512,36990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5510 Ryzen 5,512,16990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5510 MX550 Core i5,512,28490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5510 RTX 3050 Ryzen 5,512,31490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9510 RTX 4050 Core i7,512,50990000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3520 Core i3,512,12490000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5520 Core i5,512,21490000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5520 Core i5,512,28990000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5520 RTX 3060 Ryzen 7,512,38990000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9520 RTX 4070 Core i9,512,61490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3530 Ultra 5,512,36990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5530 Ryzen 5,512,16990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5530 MX550 Core i5,512,28490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5530 RTX 3050 Ryzen 5,512,31490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9530 RTX 4050 Core i7,512,50990000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3540 Core i3,512,12990000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5540 Core i5,512,21490000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5540 Core i5,512,28990000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5540 RTX 3060 Ryzen 7,512,38990000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9540 RTX 4070 Core i9,512,61490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3550 Ultra 5,512,36990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5550 Ryzen 5,512,16990000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5550 MX550 Core i5,512,28490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5550 RTX 3050 Ryzen 5,512,31490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9550 RTX 4050 Core i7,512,50990000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3560 Core i3,512,12990000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5560 Core i5,512,21990000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5560 Core i5,512,28990000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5560 RTX 3060 Ryzen 7,512,38990000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9560 RTX 4070 Core i9,512,61490000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3570 Ultra 5,512,36990000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5570 Ryzen 5,512,17490000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5570 MX550 Core i5,512,29490000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5570 RTX 3050 Ryzen 5,512,31490000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3465 Ryzen 3,256,11690000,14,AMD Ryzen 3 7320U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 14 3465 Ryzen 5,512,14690000,14,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5565 Ryzen 7,512,19690000,15.6,AMD Ryzen 7 7735U,16GB,AMD Radeon Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Vostro 13 5365 Ryzen 5 Pro,256,15690000,13.3,AMD Ryzen 5 PRO 7645HS,8GB,AMD Radeon Graphics,Aluminum,1.2,"3-Cell, 40 Wh",hoanghamobile
+Dell XPS 13 9365 Core i5,256,31190000,13.4,Intel Core i5-1340P,8GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell XPS 13 9365 Core i7,512,36190000,13.4,Intel Core i7-13700H,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 14 3465 Core i3,256,12190000,14,Intel Core i3-1315U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 14 3465 Core i5,512,15190000,14,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5565 Core i7,512,22690000,15.6,Intel Core i7-13620H,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5465 MX550 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell Latitude 5465 MX550 Core i7,512,32190000,14,Intel Core i7-1365U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5565 RTX 3050 Core i5,512,29190000,15.6,Intel Core i5-13450HX,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell G15 5565 RTX 3060 Core i7,512,37190000,15.6,Intel Core i7-13700HX,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9565 RTX 4050 Core i7,512,49190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9565 RTX 4070 Core i9,512,59190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3470 Core i3,256,10690000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Vostro 14 3470 Core i5,512,14690000,14,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5570 Core i5,512,20690000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Inspiron 15 5570 Core i7,512,26690000,15.6,Intel Core i7-150U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell XPS 13 9370 Ultra 5,256,44190000,13.4,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.17,"3-Cell, 55 Wh",fptshop
+Dell Inspiron 15 3580 Ryzen 5,512,15690000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Vostro 14 3480 Ryzen 3,256,13690000,14,AMD Ryzen 3 7330U,8GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell Vostro 14 3480 Ryzen 5,512,17190000,14,AMD Ryzen 5 7735U,16GB,AMD Radeon Graphics,Plastic,1.46,"3-Cell, 41 Wh",hoanghamobile
+Dell XPS 13 9380 Core i5,512,31690000,13.4,Intel Core i5-1340P,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 15 5580 Core i5,512,19690000,15.6,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5480 MX550 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5580 RTX 3050 Ryzen 5,512,29690000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9580 RTX 4050 Core i7,512,49190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3490 Core i3,256,11690000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5590 Core i5,512,21690000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5490 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5590 RTX 3060 Ryzen 7,512,37190000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9590 RTX 4070 Core i9,512,59190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3400 Ultra 5,256,36690000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 3500 Ryzen 5,512,16690000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5400 MX550 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5500 RTX 3050 Ryzen 5,512,29690000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9500 RTX 4050 Core i7,512,49190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3410 Core i3,256,12190000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5510 Core i5,512,21690000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5410 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5510 RTX 3060 Ryzen 7,512,37190000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9510 RTX 4070 Core i9,512,59190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3420 Ultra 5,256,36690000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5520 Ryzen 5,512,17190000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5520 MX550 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5520 RTX 3050 Ryzen 5,512,29690000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9520 RTX 4050 Core i7,512,49190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3430 Core i3,256,12190000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5530 Core i5,512,21690000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5530 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5530 RTX 3060 Ryzen 7,512,37190000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9530 RTX 4070 Core i9,512,59190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3440 Ultra 5,256,36690000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5540 Ryzen 5,512,16690000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5540 MX550 Core i5,512,27190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5540 RTX 3050 Ryzen 5,512,29690000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9540 RTX 4050 Core i7,512,49190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3475 Ryzen 3,512,12690000,14,AMD Ryzen 3 7320U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 14 3475 Ryzen 5,512,15690000,14,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.55,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5575 Ryzen 7,512,20690000,15.6,AMD Ryzen 7 7735U,16GB,AMD Radeon Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Vostro 13 5375 Ryzen 5 Pro,512,16690000,13.3,AMD Ryzen 5 PRO 7645HS,8GB,AMD Radeon Graphics,Aluminum,1.2,"3-Cell, 40 Wh",hoanghamobile
+Dell XPS 13 9375 Core i5,512,32690000,13.4,Intel Core i5-1340P,8GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell XPS 13 9375 Core i7,512,37690000,13.4,Intel Core i7-13700H,16GB,Intel Iris Xe Graphics,Aluminum,1.17,"3-Cell, 51 Wh",cellphones
+Dell Inspiron 14 3475 Core i3,512,13190000,14,Intel Core i3-1315U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 14 3475 Core i5,512,16190000,14,Intel Core i5-1335U,8GB,Intel Iris Xe Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5575 Core i7,512,23190000,15.6,Intel Core i7-13620H,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",fptshop
+Dell Latitude 5475 MX550 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell Latitude 5475 MX550 Core i7,512,33190000,14,Intel Core i7-1365U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5575 RTX 3050 Core i5,512,30190000,15.6,Intel Core i5-13450HX,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell G15 5575 RTX 3060 Core i7,512,38190000,15.6,Intel Core i7-13700HX,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9575 RTX 4050 Core i7,512,50190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9575 RTX 4070 Core i9,512,60190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3485 Core i3,512,12190000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5585 Core i5,512,22190000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5485 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5585 RTX 3060 Ryzen 7,512,38190000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9585 RTX 4070 Core i9,512,60190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3495 Ultra 5,512,37190000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5595 Ryzen 5,512,17190000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5495 MX550 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5595 RTX 3050 Ryzen 5,512,30190000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9595 RTX 4050 Core i7,512,50190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3505 Core i3,512,12690000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5505 Core i5,512,22190000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5505 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5505 RTX 3060 Ryzen 7,512,38190000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9505 RTX 4070 Core i9,512,60190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3515 Ultra 5,512,37190000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5515 Ryzen 5,512,17190000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5515 MX550 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5515 RTX 3050 Ryzen 5,512,30190000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9515 RTX 4050 Core i7,512,50190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3535 Core i3,512,12690000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5535 Core i5,512,22190000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5535 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5535 RTX 3060 Ryzen 7,512,38190000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9535 RTX 4070 Core i9,512,60190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3545 Ultra 5,512,37190000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
+Dell Inspiron 15 5545 Ryzen 5,512,17190000,15.6,AMD Ryzen 5 7535U,8GB,AMD Radeon Graphics,Plastic,1.7,"3-Cell, 42 Wh",cellphones
+Dell Latitude 5545 MX550 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,NVIDIA GeForce MX550,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5545 RTX 3050 Ryzen 5,512,30190000,15.6,AMD Ryzen 5 7640HS,8GB,NVIDIA GeForce RTX 3050,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9545 RTX 4050 Core i7,512,49190000,15.6,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Inspiron 14 3580 Core i3,512,12690000,14,Intel Core i3-1305U,8GB,Intel UHD Graphics,Plastic,1.55,"3-Cell, 41 Wh",fptshop
+Dell Inspiron 15 5580 Core i5,512,22190000,15.6,Intel Core i5-120U,16GB,Intel Iris Xe Graphics,Aluminum,1.66,"4-Cell, 54 Wh",hoanghamobile
+Dell Latitude 5580 Core i5,512,28190000,14,Intel Core i5-1335U,16GB,Intel Iris Xe Graphics,Aluminum,1.36,"4-Cell, 58 Wh",thegioididong
+Dell G15 5580 RTX 3060 Ryzen 7,512,38190000,15.6,AMD Ryzen 7 7735HS,16GB,NVIDIA GeForce RTX 3060,Plastic,2.81,"6-Cell, 86 Wh",fptshop
+Dell XPS 15 9580 RTX 4070 Core i9,512,60190000,15.6,Intel Core i9-13900H,32GB,NVIDIA GeForce RTX 4070,Aluminum,1.92,"6-Cell, 86 Wh",fptshop
+Dell Vostro 14 3590 Ultra 5,512,37190000,14,Intel Core Ultra 5,16GB,Intel Arc Graphics,Aluminum,1.46,"3-Cell, 41 Wh",cellphones
