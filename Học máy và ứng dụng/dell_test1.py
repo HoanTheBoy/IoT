@@ -8,7 +8,7 @@ import re # Thư viện để làm việc với regular expressions
 # Đảm bảo file datafake.csv nằm trong cùng thư mục với notebook
 # hoặc cung cấp đường dẫn đầy đủ tới file.
 try:
-    df = pd.read_csv('datafake.csv')
+    df = pd.read_csv('data.csv')
     print("Tải dữ liệu thành công.")
     print("Thông tin ban đầu của dữ liệu:")
     df.info()
